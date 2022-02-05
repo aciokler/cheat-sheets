@@ -8,3 +8,7 @@ sudo npm install -g @angular/cli@latest
 say no to sharing analytics info
 
 ng new [project name]
+
+cd [project name]
+# add bootstrap
+npm install --save bootstrap
